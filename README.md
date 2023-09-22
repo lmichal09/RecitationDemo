@@ -1,2 +1,2 @@
 # RecitationDemo
- Demo for recition in P4S 
+ Demo for recitation in P4S 
